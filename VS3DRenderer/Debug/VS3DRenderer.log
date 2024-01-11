@@ -1,0 +1,33 @@
+﻿  Main.c
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(118): warning C4305: 'función': truncamiento de 'double' a 'float'
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(72): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(79): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(80): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(204): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(213): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(222): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(231): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(239): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(246): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(253): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(260): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(267): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(275): warning C4244: 'función': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(415): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(416): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(422): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(423): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(488): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(523): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(525): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(527): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(538): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(539): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(540): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(553): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(555): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(557): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(569): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(570): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(571): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+  VS3DRenderer.vcxproj -> D:\H\Pikuma\3DGraphicsC\VisualStudioVersion\VS3DRenderer\Debug\VS3DRenderer.exe

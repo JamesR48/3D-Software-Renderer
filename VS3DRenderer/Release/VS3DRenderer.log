@@ -1,0 +1,4 @@
+﻿  Main.c
+d:\h\pikuma\3dgraphicsc\visualstudioversion\vs3drenderer\vs3drenderer\main.c(76): warning C4013: 'SDL_RenderDrawColor' sin definir; se supone que extern devuelve como resultado int
+Main.obj : error LNK2001: símbolo externo _SDL_RenderDrawColor sin resolver
+D:\H\Pikuma\3DGraphicsC\VisualStudioVersion\VS3DRenderer\Release\VS3DRenderer.exe : fatal error LNK1120: 1 externos sin resolver
