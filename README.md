@@ -1,0 +1,14 @@
+Controls:
+- ESC for quitting
+- 1 Key: Render meshes's wireframe and vertices
+- 2 Key: Render meshes's wireframe
+- 3 key: Render meshes untextured
+- 4 key: Render meshes untextured with wireframe overO 
+- 5 Key: Render meshes textured
+- 6 Key: Render meshes textured with wireframe over
+- o Key: Backface culling
+- i Key: No culling
+- W/S Keys: Move camera forward/backward
+- A/D Keys: Move camera left/right
+- Q/E Keys: Move camera up/down
+- Arrow Keys: Rotate camera (tank controls)
